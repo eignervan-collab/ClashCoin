@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ClashCoin - $COC</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Press Start 2P', cursive;
+      background: #1c1c1c;
+      color: #fff;
+      text-align: center;
+      padding: 0;
+    }
+    header {
+      background: url('https://i.imgur.com/KXchQUL.jpg') no-repeat center center;
+      background-size: cover;
+      padding: 100px 20px;
+      color: #ffcc00;
+      position: relative;
+    }
+    header h1 {
+      font-size: 2rem;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1rem;
+    }
+    .connect-wallet {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background: #ffcc00;
+      color: #1c1c1c;
+      padding: 10px 20px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 0.7rem;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .btn {
+      display: inline-block;
+      background: #ffcc00;
+      color: #1c1c1c;
+      padding: 15px 30px;
+      margin-top: 20px;
+      text-decoration: none;
+      border-radius: 10px;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #ffc107;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    footer {
+      background: #000;
+      color: #888;
+      padding: 20px;
+      font-size: 0.8rem;
+    }
+    .socials a {
+      color: #ffcc00;
+      margin: 0 10px;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+    iframe {
+      max-width: 100%;
+      border: none;
+      margin-top: 20px;
+      border-radius: 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="connect-wallet">🔐 Connect Wallet</div>
+    <h1>⚔️ ClashCoin ($COC)</h1>
+    <p>The Ultimate Raid on Crypto Begins!</p>
+    <a href="#join" class="btn">Join the $COC Army</a>
+  </header>
+
+  <section>
+    <h2>🔥 What is $COC?</h2>
+    <p>
+      ClashCoin ($COC) is the first meme coin forged in the fires of Clan Wars.
+      Designed for degens, HODLers, and war-hardened builders, $COC brings the epic energy of Clash of Clans to the world of crypto.
+    </p>
+  </section>
+
+  <section>
+    <h2>🏰 Token Features</h2>
+    <ul>
+      <li>💎 Passive rewards for loyal clan members</li>
+      <li>🧱 Anti-rug fortress smart contract</li>
+      <li>🎮 NFT troops and Clashverse utility coming soon</li>
+      <li>🔥 Burn mechanics & leaderboard events</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📜 Our Mission</h2>
+    <p>
+      We're not here to play it safe—we're here to raid. $COC is about building community, crushing rugs, and conquering the meme coin kingdom.
+      Your village may fall, but your bags won't.
+    </p>
+  </section>
+
+  <section id="join">
+    <h2>🚀 How to Join</h2>
+    <p>1. Download MetaMask<br/>2. Buy BNB<br/>3. Swap on PancakeSwap<br/>4. HODL & MEME</p>
+    <p>Contract: <code>0xCL4SHC0INR0CKSZ</code></p>
+    <a href="#" class="btn">Buy $COC Now</a>
+  </section>
+
+  <section>
+    <h2>🗺️ Roadmap</h2>
+    <ul>
+      <li>✅ Q1: Meme launch + token deployment</li>
+      <li>✅ Q2: Website + Telegram + X account</li>
+      <li>🚧 Q3: NFT troop drop + mini ClashWars</li>
+      <li>🧩 Q4: GameFi ClashMode + CEX listings</li>
+      <li>🌕 2026: ClashDAO + Moon Village expansion</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📈 Live Chart</h2>
+    <iframe src="https://www.dextools.io/app/en/bnb/pair-explorer/0x0000000000000000000000000000000000000000" width="100%" height="400" title="DEXTools Chart Placeholder"></iframe>
+    <p style="font-size: 0.7rem; color: #888;">*Replace this with your real DEXTools or GeckoTerminal chart URL when available.</p>
+  </section>
+
+  <section class="socials">
+    <h2>🔗 Connect with Us</h2>
+    <a href="https://t.me/ClashCoinCOC" target="_blank">Telegram</a> |
+    <a href="https://x.com/ClashCoinCOC" target="_blank">X (formerly Twitter)</a>
+  </section>
+
+  <footer>
+    © 2025 ClashCoin ($COC) – Powered by Memes & Mayhem<br/>
+    Not affiliated with Supercell or Clash of Clans (but we totally wish we were)
+  </footer>
+
+</body>
+</html>
